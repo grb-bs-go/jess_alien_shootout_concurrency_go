@@ -1,0 +1,3 @@
+2024/03/18 18:21:29 logger.go:26: LogFile : C:\aaaGoConc\logger.log
+2024/03/18 18:21:29 main.go:11: 2024-03-18 18:21:29.4696117 +0000 GMT m=+0.006040601
+2024/03/18 18:21:30 main.go:19: Running Time in secs was 1

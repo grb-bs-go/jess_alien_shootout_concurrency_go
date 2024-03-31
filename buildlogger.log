@@ -1,0 +1,21 @@
+2024/03/31 14:54:38 logger.go:26: LogFile : buildlogger.log
+2024/03/31 14:54:38 main.go:23: No Aliens 10
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:38 fight.go:16: 10 battling
+2024/03/31 14:54:42 fight.go:58: Alien10 {Alien10 false 20 23 6 1711896880} is dead!
+2024/03/31 14:54:44 fight.go:58: Alien1 {Alien1 false 20 21 6 1711896884} is dead!
+2024/03/31 14:54:44 fight.go:58: Alien2 {Alien2 false 20 23 6 1711896884} is dead!
+2024/03/31 14:54:50 fight.go:58: Alien5 {Alien5 false 20 21 10 1711896888} is dead!
+2024/03/31 14:54:50 fight.go:58: Alien6 {Alien6 false 20 24 7 1711896890} is dead!
+2024/03/31 14:54:52 fight.go:58: Alien8 {Alien8 false 20 22 7 1711896890} is dead!
+2024/03/31 14:54:52 fight.go:58: Alien4 {Alien4 false 20 20 9 1711896892} is dead!
+2024/03/31 14:54:54 fight.go:58: Alien3 {Alien3 false 20 21 8 1711896894} is dead!
+2024/03/31 14:54:54 fight.go:58: Alien7 {Alien7 false 20 20 5 1711896894} is dead!
