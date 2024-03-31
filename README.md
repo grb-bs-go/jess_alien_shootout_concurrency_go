@@ -3,17 +3,29 @@ Example Golang program demo'ing Go Routines, shared data and concurrent executio
 Scenario is based on an Alien 'Shootout' where a number of (command-line input) 20HP aliens shoot at each other, doing 1d7 damage until all other dead. An Alien can not shoot itself nor a dead alien. Each Alien must shoot at another randomly selected alien, then pause for 1 second before attempting another shot. 
 In this implementation, each GoRoutine represents an alien in this implementation, concurrently processing same data set via a sync mutex (no channels in this impl).
 
+
 Data Structure:
+
 type Alien struct {
-	Name      string
-	Alive     bool
-	HitPoints int
-        Damage    int
-	Hits      int
-	ShootTime int64
+
+ Name      string
+
+ Alive     bool
+
+ HitPoints int
+ 
+Damage    int
+
+ Hits      int
+ 
+ ShootTime int64
+
 }
+
 type BattleTurn struct {
-	sync.Mutex
+
+ sync.Mutex
+
 }
 
 Usage:
