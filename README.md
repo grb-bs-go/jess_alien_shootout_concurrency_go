@@ -8,23 +8,23 @@ Data Structure:
 
 type Alien struct {
 
- Name      string
+  Name      string
 
- Alive     bool
+  Alive     bool
 
- HitPoints int
+  HitPoints int
+  
+  Damage    int
+
+  Hits      int
  
-Damage    int
-
- Hits      int
- 
- ShootTime int64
+  ShootTime int64
 
 }
 
 type BattleTurn struct {
 
- sync.Mutex
+  sync.Mutex
 
 }
 
